@@ -84,7 +84,7 @@ Une fois connecté, posez vos questions directement à votre assistant IA :
 ## 🔧 Développement local
 
 ```bash
-git clone https://github.com/kevynwahuzue/mcp-datagouv-nc
+git clone https://github.com/kanakytech/mcp-datagouv-nc
 cd mcp-datagouv-nc
 npm install
 npm run build
