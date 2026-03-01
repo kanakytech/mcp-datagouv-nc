@@ -115,7 +115,9 @@ Si vous représentez le Gouvernement de la Nouvelle-Calédonie ou une institutio
 
 ## 📄 Licence
 
-MIT — Libre d'utilisation, de modification et de distribution.
+MIT License + Attribution Request:
+If you use this project, please credit Kevyn WAHUZUE 
+(github.com/kanakytech/mcp-datagouv-nc) somewhere in your project's README or credits <3
 
 ---
 
