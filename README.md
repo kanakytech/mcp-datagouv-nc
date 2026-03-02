@@ -9,7 +9,7 @@
 
 ## À propos de ce projet
 
-Ce projet est une contribution open source de **[Kevyn WAHUZUE](https://linkedin.com/in/kevyn-wahuzue)**, pour soutenir la démarche d'ouverture des données publiques engagée par le Gouvernement de la Nouvelle-Calédonie (https://data.gouv.nc/api/explore/v2.1/console).
+Ce projet à été initié par **[Kevyn WAHUZUE](https://linkedin.com/in/kevyn-wahuzue)**, pour soutenir la démarche d'ouverture des données publiques engagée par le Gouvernement de la Nouvelle-Calédonie (https://data.gouv.nc/api/explore/v2.1/console). Ce protocole permet de connecter les données publiques du territoire aux assistants IA modernes via le protocole MCP. Il s'agit de la première implémentation MCP dédiée à data.gouv.nc, conçue pour faciliter l'exploitation des données ouvertes en langage naturel.
 
 **data.gouv.nc** met à disposition des centaines de jeux de données publics (statistiques, économie, environnement, population, transport…). Ce serveur MCP rend ces données directement accessibles à tous les assistants IA compatibles — Claude, Cursor, Windsurf, et tout client MCP — sans avoir besoin d'écrire une seule ligne de code.
 
